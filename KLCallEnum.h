@@ -41,7 +41,7 @@ typedef enum{
 } KLCaptureOutput;
 
 typedef enum{
-    KLH264Encoder = 0,    //H.264
-    KLHEVCEncoder         //H.265
+    KLH264Encoder = 0,             //H.264
+    KLHEVCEncoder                  //H.265
 } KLEncoderType;
 #endif /* KLCallEnum_h */
